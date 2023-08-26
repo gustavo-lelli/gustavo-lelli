@@ -8,8 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - uses: Platane/snk@mv3
         with:
           github_user_name: gustavo-lelli
           outputs: |
