@@ -24,3 +24,4 @@
 ##
 
 ![snake gif](https://github.com/gustavo-lelli/gustavo-lelli/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/rafaballerini/gustavo-lelli/blob/output/github-contribution-grid-snake.svg)
