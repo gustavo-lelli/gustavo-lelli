@@ -10,8 +10,8 @@
  </div>
 
  ##
+ 
 - 🐍 My most used languages are refering to the projects in my won github. A more accurate list about my most used languages is:
- ##
 
  <div style="display: inline_block"><br>
    <img align="center" alt="Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
