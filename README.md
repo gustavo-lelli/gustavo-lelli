@@ -1,6 +1,6 @@
 ### Hello World! I'm Gustavo Lelli 👋
 
-- 💻 Currently interning with systems development at the Information Technology Superintendence at the University of São Paulo
+- 💻 Currently interning with web systems development at Aptor Software
 
  <div>
    <a href="https://github.com/gustavo-lelli">
