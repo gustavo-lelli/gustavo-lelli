@@ -1,6 +1,6 @@
 ### Hello World! I'm Gustavo Lelli 👋
 
-- 💻 Currently interning with web systems development at Aptor Software
+- 💻 Currently interning with AI and software development at Leadfy Imob
 
  <div>
    <a href="https://github.com/gustavo-lelli">
