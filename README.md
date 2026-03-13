@@ -1,6 +1,6 @@
 ### Hello World! I'm Gustavo Lelli 👋
 
-- 💻 Currently interning with AI and software development at Leadfy Imob
+- 💻 Currently interning with AI and software development at DataBrasil
 
  <div>
    <a href="https://github.com/gustavo-lelli">
